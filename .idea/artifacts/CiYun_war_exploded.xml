@@ -1,0 +1,48 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CiYun:war exploded">
+    <output-path>$PROJECT_DIR$/Practice1/target/CiYun</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CiYun" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.kennycason:kumo-core:1.13" />
+          <element id="library" level="project" name="Maven: com.kennycason:kumo-api:1.13" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.25" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.8.2" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.4" />
+          <element id="library" level="project" name="Maven: com.github.davidmoten:rtree:0.8.0.1" />
+          <element id="library" level="project" name="Maven: com.github.davidmoten:guava-mini:0.1" />
+          <element id="library" level="project" name="Maven: io.reactivex:rxjava:1.2.10" />
+          <element id="library" level="project" name="Maven: com.github.davidmoten:rxjava-extras:0.8.0.7" />
+          <element id="library" level="project" name="Maven: com.kennycason:kumo-tokenizers:1.12" />
+          <element id="library" level="project" name="Maven: org.languagetool:language-en:2.5" />
+          <element id="library" level="project" name="Maven: org.languagetool:languagetool-core:2.5" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="library" level="project" name="Maven: net.java.dev.jna:jna:4.0.0" />
+          <element id="library" level="project" name="Maven: org.carrot2:morfologik-fsa:1.9.0" />
+          <element id="library" level="project" name="Maven: org.carrot2:morfologik-speller:1.9.0" />
+          <element id="library" level="project" name="Maven: org.carrot2:morfologik-stemming:1.9.0" />
+          <element id="library" level="project" name="Maven: net.sourceforge.segment:segment:1.4.2" />
+          <element id="library" level="project" name="Maven: org.apache.tika:tika-core:1.4" />
+          <element id="library" level="project" name="Maven: org.apache.opennlp:opennlp-tools:1.5.3" />
+          <element id="library" level="project" name="Maven: org.apache.opennlp:opennlp-maxent:3.0.3" />
+          <element id="library" level="project" name="Maven: edu.washington.cs.knowitall:opennlp-tokenize-models:1.5" />
+          <element id="library" level="project" name="Maven: edu.washington.cs.knowitall:opennlp-postag-models:1.5" />
+          <element id="library" level="project" name="Maven: edu.washington.cs.knowitall:opennlp-chunk-models:1.5" />
+          <element id="library" level="project" name="Maven: org.languagetool:language-zh:2.5" />
+          <element id="library" level="project" name="Maven: com.googlecode.ictclas4j:ictclas4j:1.0.1" />
+          <element id="library" level="project" name="Maven: com.google.code:cjftransform:1.0.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Practice1/target/CiYun/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="CiYun/web/Web" />
+    </root>
+  </artifact>
+</component>

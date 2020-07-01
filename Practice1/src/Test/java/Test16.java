@@ -19,5 +19,7 @@ public class Test16 {
             }
         }
         System.out.println("数组中不存在该元素");
+        System.out.println("数组中不存在该元素");
+        
     }
 }

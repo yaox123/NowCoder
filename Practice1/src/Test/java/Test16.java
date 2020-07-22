@@ -5,7 +5,7 @@ import java.util.Scanner;
  * @BelongsPackage: PACKAGE_NAME
  * @Author: yaox
  * @CreateTime: 2019-02-23 09:32
- * 数组普通查找
+ * 数组普通查找  gggzzz
  */
 public class Test16 {
     public static void main(String[] args) {

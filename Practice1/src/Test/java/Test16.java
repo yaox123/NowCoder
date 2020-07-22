@@ -5,11 +5,6 @@ import java.util.Scanner;
  * @BelongsPackage: PACKAGE_NAME
  * @Author: yaox
  * @CreateTime: 2019-02-23 09:32
-<<<<<<< HEAD
- * 数组普通查找  gggzzz  fggudug
-=======
- * 数组普通查找  gggzzz fregerg
->>>>>>> b0daef8... [时间：2020年7月22日15:31:15]
  */
 public class Test16 {
     public static void main(String[] args) {
